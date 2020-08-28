@@ -9,6 +9,11 @@ If you would like to mess around with the coding examples feel free to do so
 Basic layout will go as such
 
 ## Python
+  - Basics of Programming
+  - Conditional Flow
+  - Loops 
+  - Functions 
+  - Objects and Classes
 ## Data Visualization
 ## Data Analysis
 ## SQL Databases
